@@ -27,4 +27,4 @@ Finally, you can use ``Ctrl-C`` to interrupt and ``Ctrl-\`` to quit a program, a
 
 A few of the functions are "built-in", meaning we don't call the executable, we re-coded them directly. It's the case for ``echo``, ``pwd``, ``cd``, ``env``, ``export``, ``unset`` and ``exit``.
 
-For more details please watch ''en.subject.pdf''
+For more details please watch ``en.subject.pdf``
